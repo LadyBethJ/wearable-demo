@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Basic Notifications Sample</string>
+    <string name="notifications_text">A notification is a message that Android displays outside your app\'s UI to provide the user with reminders, communication from other people, or other timely information from your app. Users can tap the notification to open your app or take an action directly from the notification.</string>
+    <string name="button_text">Do it!</string>
+    <string name="channel_name">Maribel Notifs</string>
+    <string name="channel_description">Canal de prueba para notificaciones</string>
+    <string name="push_text">Time to learn about notifications!</string>
+    <string name="push_subtext">Tap to view documentation about notifications.</string>
+</resources>
